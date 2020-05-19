@@ -1,0 +1,9 @@
+Soruda amaç nesne tabanlı programlama özelliklerini kullanarak ailemizi tanıtmak olacaktır.Dede isimli 
+bir sınıf(class) oluşturunuz bu sınıfın içerisinde String türünde public olarak isim_soyisim, cinsiyet, meslek,
+akrabalik_duzeyi, es, hayati_durum Integer türünde yas, boy, kilo degiskenlerini tanımlayınız.Ebeveynler 
+isimli, Dede sınıfından kalıtım alan bir sınıf(class) oluşturup bu sınıfa String türünde private olarak 
+cocuklari, hobi, dizi değişkenlerini ve String türünde public olarak giyim_tarzi, oyunlar değişkenlerini 
+tanımlayınız.Ebeveynler sınıfından kalıtım alan Cocuklar isimli bir sınıf(class) oluştutup bu sınıfın 
+içerisinde Dede_Tanit(), Baba_Tanit(), Anne_Tanit(), Kendimi_Tanit(), Kardes_Tanit()  methodlarını 
+tanımlayınız, metotların içerisinde kişiye ait özellikleri tanıtınız.Programın main methodunda ailenizi 
+tanıtınız.
